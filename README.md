@@ -31,4 +31,4 @@
 
 ## Stargazers
 
-[![Stargazers repo roster for @chandanverma07](https://reporoster.com/stars/waylonwalker/waylonwalker)](https://github.com/waylonwalker/waylonwalker/stargazers)
+[![Stargazers repo roster for @chandanverma07](https://reporoster.com/stars/chandanverma07)](https://github.com/chandanverma07/stargazers)
