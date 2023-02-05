@@ -1,6 +1,5 @@
 # 👨🏻‍💻 [CHANDAN VERMA](https://chandanverma.com)
-[![](https://goreportcard.com/badge/github.com/chandanverma07/VisitorBadgeReloaded)](https://goreportcard.com/report/github.com/chandanverma07/VisitorBadgeReloaded)
-<br>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=chandanverma07&left_color=green&right_color=red)
 <p>
  <a href="https://github.com/chandanverma07?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/chandanverma07?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
