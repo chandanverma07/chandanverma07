@@ -1,4 +1,5 @@
 # 👨🏻‍💻 [CHANDAN VERMA](https://chandanverma.com)
+[![](https://goreportcard.com/badge/github.com/Nathan13888/VisitorBadgeReloaded)](https://goreportcard.com/report/github.com/chandanverma07/VisitorBadgeReloaded)
 <br>
 <p>
  <a href="https://github.com/chandanverma07?tab=followers">
