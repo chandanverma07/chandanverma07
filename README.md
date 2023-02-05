@@ -17,6 +17,6 @@ I have electronics engineering degree and a background in teaching at high schoo
 />
 
 
-## 🤩 Support
+### 🤩 Support
 
-💙 If you like this project, give it a ⭐ and share it with friends!
+💙 if you feel this is informative, give it a ⭐ and share it with friends!
