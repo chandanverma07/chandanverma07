@@ -11,6 +11,9 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-ChandanVerma-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:mail2chandanverma@gmail.com)](mailto:mail2chandanverma@gmail.com)
 
+ <a href="https://www.youtube.com/channel/UC0byJszUuiB0-tn_JoUwOVg"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
 
 <br>
 <img
