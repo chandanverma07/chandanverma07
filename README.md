@@ -1,4 +1,4 @@
-# 👨🏻‍💻 [CHANDAN VERMA](https://chandanverma.com) ![visitors](https://visitor-badge.glitch.me/badge?page_id=chandanverma07&left_color=green&right_color=red)
+ <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1> ![visitors](https://visitor-badge.glitch.me/badge?page_id=chandanverma07&left_color=green&right_color=red)
 
 
 <p align='center'>
@@ -19,7 +19,7 @@
     src = 'https://github.com/chandanverma07/chandanverma07/blob/main/image1.jpg'
     width = 800/>
  </p>
- 
+ # 👨🏻‍💻 [CHANDAN VERMA](https://chandanverma.com)
  ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
  <br>
 ![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandanverma07&show_icons=true&theme=radical)
