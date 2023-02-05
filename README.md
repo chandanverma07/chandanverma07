@@ -1,5 +1,5 @@
 ### Welcome everyone 
-![](https://komarev.com/ghpvc/?username=chandanverma07)
+![](https://komarev.com/ghpvc/?username=chandanverma07&color=green)
 
 
 I Pursuing Phd In Natural Language Processing and also working as a Data Scientist,in IBM.I am a passionate trainer and have expertise in the Training and Project Management.
