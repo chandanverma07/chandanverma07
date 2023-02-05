@@ -22,7 +22,6 @@
 
 💙 if you feel this is informative, give it a ⭐ and share it with friends!
 
-<p align="center">
- ![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandanverma07&show_icons=true&theme=radical)
+![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandanverma07&show_icons=true&theme=radical)
     
- </p>
+
