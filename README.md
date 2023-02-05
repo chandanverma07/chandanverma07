@@ -8,11 +8,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-ChandanVerma-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:mail2chandanverma@gmail.com)](mailto:mail2chandanverma@gmail.com)[![Chandan](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/chandan-shubh-aa448b5a/)](https://www.linkedin.com/in/chandan-shubh-aa448b5a/)
 
-[![my repos][15]][15]
-[![downloads][16]][16]
-[![phone][17]][17]
-[![email][18]][18]
-[![location][19]][19]
+https://custom-icon-badges.demolab.com/badge/-123--456--7890-orange?style=for-the-badge&logo=phone&logoColor=white
 <br>
 <img
     src = 'https://github.com/chandanverma07/chandanverma07/blob/main/image1.jpg'
