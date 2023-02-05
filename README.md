@@ -9,3 +9,4 @@ I have  conducted several seminars, training programs on the practical applicat
 
 [![Gmail Badge](https://img.shields.io/badge/-ChandanVerma-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:mail2chandanverma@gmail.com)](mailto:mail2chandanverma@gmail.com)
 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/chandan-shubh-aa448b5a/)](https://www.linkedin.com/in/chandan-shubh-aa448b5a/)
