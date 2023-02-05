@@ -19,7 +19,8 @@
     src = 'https://github.com/chandanverma07/chandanverma07/blob/main/image1.jpg'
     width = 800/>
  </p>
- # 👨🏻‍💻 [CHANDAN VERMA](https://chandanverma.com)
+ # 👨🏻‍💻 [Technology]
+ 
  ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
  <br>
 ![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandanverma07&show_icons=true&theme=radical)
