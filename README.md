@@ -1,7 +1,6 @@
 # 👨🏻‍💻 [CHANDAN VERMA](https://chandanverma.com)
-<p align="left">
+
 (https://custom-icon-badges.demolab.com/github/stars/DenverCoder1/custom-icon-badges?logo=star)](https://github.com/chandanverma077/custom-icon-badges/stargazers "stars")
-</p>
 
 
 <p align="left">
