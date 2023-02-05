@@ -1,8 +1,9 @@
 # 👨🏻‍💻 [CHANDAN VERMA](https://chandanverma.com)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=chandanverma07&left_color=green&right_color=red)
+
 <p>
  <a href="https://github.com/chandanverma07?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/chandanverma07?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=chandanverma07&left_color=green&right_color=red)
 </p>
 <p align='center'>
 <a href="https://instagram.com/verma.chandan.070"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
