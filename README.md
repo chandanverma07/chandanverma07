@@ -20,7 +20,7 @@
     width = 800/>
  </p>
  
- [](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+ ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandanverma07&show_icons=true&theme=radical)
     
 ### 🤩 Support
