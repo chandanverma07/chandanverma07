@@ -6,7 +6,13 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
  </a>
 </p>
-
+<br>
+<p>
+ <a href="https://github.com/DenverCoder1?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+</p>
 <p align="left">
 <b>I Pursuing Phd In Natural Language Processing and also working as a Data Scientist,in IBM.I am a passionate trainer and have expertise in the Training and Project Management.I have  conducted several seminars, training programs on the practical application of data science and machine learning.I have electronics engineering degree and a background in teaching at high school, undergraduate, graduate and corporate levels.I have been an active speaker on a variety of subjects and attended a number of national,International Conferences and Summits on Artificial Intelligence and Machine Learning.</b>
 </p>
