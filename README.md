@@ -1,5 +1,4 @@
- <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey! Nice to see you.</h1> 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=chandanverma07&left_color=green&right_color=red)
+ <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey! Nice to see you.</h1>![visitors](https://visitor-badge.glitch.me/badge?page_id=chandanverma07&left_color=green&right_color=red)
 
 
 <p align='center'>
