@@ -16,7 +16,7 @@
 </p>
 
 [![Gmail Badge](https://img.shields.io/badge/-ChandanVerma-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:mail2chandanverma@gmail.com)](mailto:mail2chandanverma@gmail.com)
-
+[![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg)](https://github.com/chandanverma07/awesome-github-profile-readme-templates/stargazers)
 <br>
 <p align="center">
 <img
