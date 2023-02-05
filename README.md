@@ -1,5 +1,9 @@
 # 👨🏻‍💻 [CHANDAN VERMA](https://chandanverma.com)
 
+<a href="https://github.com/rahul-jha98/github-stats-transparent">
+
+![](https://raw.githubusercontent.com/chandanverma07/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/chandanverma07/github-stats-transparent/output/generated/languages.svg)
 
 
 <p align="left">
