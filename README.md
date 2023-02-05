@@ -11,16 +11,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-ChandanVerma-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:mail2chandanverma@gmail.com)](mailto:mail2chandanverma@gmail.com)[![Chandan](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/chandan-shubh-aa448b5a/)](https://www.linkedin.com/in/chandan-shubh-aa448b5a/)
 
 <br>
-
 <img
     src = 'https://github.com/chandanverma07/chandanverma07/blob/main/image1.jpg'
     width = 800
 />
-
+<br>
+![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandanverma07&show_icons=true&theme=radical)
+    
 ### 🤩 Support
 
 💙 if you feel this is informative, give it a ⭐ and share it with friends!
-
-![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandanverma07&show_icons=true&theme=radical)
-    
-
