@@ -17,7 +17,6 @@
     width = 800
 />
 
-
 ### 🤩 Support
 
 💙 if you feel this is informative, give it a ⭐ and share it with friends!
