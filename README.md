@@ -29,6 +29,4 @@
 
 💙 if you feel this is informative, give it a ⭐ and share it with friends!
 
-## Stargazers
 
-[![Stargazers repo roster for @chandanverma07](https://reporoster.com/stars/chandanverma07)](https://github.com/chandanverma07/stargazers)
