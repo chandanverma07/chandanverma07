@@ -15,3 +15,8 @@ I have electronics engineering degree and a background in teaching at high schoo
     src = 'https://github.com/chandanverma07/chandanverma07/blob/main/image1.jpg'
     width = 800
 />
+
+
+## 🤩 Support
+
+💙 If you like this project, give it a ⭐ and share it with friends!
