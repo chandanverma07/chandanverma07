@@ -1,6 +1,7 @@
-### Welcome everyone 
-![](https://komarev.com/ghpvc/?username=chandanverma07&color=green)
+### CHANDAN VEMA
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+![](https://komarev.com/ghpvc/?username=chandanverma07&color=green)
+
 
 
 I Pursuing Phd In Natural Language Processing and also working as a Data Scientist,in IBM.I am a passionate trainer and have expertise in the Training and Project Management.
