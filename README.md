@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/chandan-shubh-aa448b5a/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-[![Gmail Badge](https://img.shields.io/badge/-ChandanVerma-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:mail2chandanverma@gmail.com)](mailto:mail2chandanverma@gmail.com)[![Chandan](https://img.shields.io/badge/-LinkedIn-blue?
+[![Gmail Badge](https://img.shields.io/badge/-ChandanVerma-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:mail2chandanverma@gmail.com)](mailto:mail2chandanverma@gmail.com)
 
 
 <br>
